@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Amen Project
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Admin
+Implementation-Vendor-Id: io.amen.springboot
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/exercice/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
